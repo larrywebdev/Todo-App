@@ -30,7 +30,7 @@ npm install
 # Start the development server
 npm run dev
 
-Visit http://localhost:5173 in your browser.
+Visit http://localhost:5173/ in your browser.
 ```
 
 ### 🛠️Built With
