@@ -1,0 +1,95 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Vite cache
+.vite/
+
+# Optional: if you're using eslint, prettier, etc.
+eslintcache
+.prettiercache
+
+# Coverage (e.g. from tests)
+coverage/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional: testing tools
+jest-cache/
+jest.config.js
+
+# Optional: Vercel, Netlify CLI
+.vercel/
+.netlify/
+
+# Optional: Parcel, Next.js
+.cache/
+.next/
+
+# Optional: GitHub-specific
+.github/workflows/*.secrets
+
+# Optional: Yarn v2+
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+
